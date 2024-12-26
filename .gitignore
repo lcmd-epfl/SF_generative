@@ -7,7 +7,6 @@ docs/build
 docs/source/_autosummary
 
 
-data/*
 outputs/*
 model_training_outputs/*
 nohup.out
